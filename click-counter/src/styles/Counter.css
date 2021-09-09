@@ -1,0 +1,27 @@
+
+.counter {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.title {
+    padding: 20px;
+}
+
+.counter-value {
+    padding: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.btn {
+    margin: 10px;
+    background-color:cornsilk;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.btn:hover {
+    background-color:darkgoldenrod;
+}
